@@ -1,0 +1,15 @@
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\bin\Debug\SistemaEscolar.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\bin\Debug\SistemaEscolar.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\bin\Debug\SistemaEscolar.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\bin\Debug\SistemaEscolar.exe.config
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\bin\Debug\SistemaEscolar.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\bin\Debug\SistemaEscolar.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.csproj.AssemblyReference.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.csproj.CoreCompileInputs.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaEscolar_Dev\SistemaEscolar\obj\Debug\SistemaEscolar.pdb
